@@ -1,4 +1,4 @@
-ISN2013-Fractions
+ISN
 =================
 
-Private : For the ISN classes.   Some students little projects(more like homeworks)
+Private : For the ISN classes. Contains the enormous project EXIT!
